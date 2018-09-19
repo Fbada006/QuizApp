@@ -1,0 +1,57 @@
+<resources>
+    <!--Do not translate the name of the app-->
+    <string name="app_name" translatable="false">Quiz App</string>
+
+    <!--Strings for question 1-->
+    <string name="question_1">1. Which of the following are primitive types in java?</string>
+    <string name="question_1_a">int</string>
+    <string name="question_1_b">String</string>
+    <string name="question_1_c">boolean</string>
+    <string name="question_1_d">INTEGER</string>
+
+    <!--Strings for question 2-->
+    <string name="question_2">2. What kinds of variable types are accepted by a switch statement?</string>
+    <string name="question_2_a">boolean</string>
+    <string name="question_2_b">int</string>
+    <string name="question_2_c">String</string>
+    <string name="question_2_d">Array</string>
+
+    <!--Strings for question 3-->
+    <string name="question_3">3. Name the language that closely resembles java but is less verbose.</string>
+    <string name="question_3_hint">Name of language</string>
+
+    <!--Strings for question 4-->
+    <string name="question_4">4. What is the name of the language used to create layouts while developing android apps with Android Studio?</string>
+    <string name="question_4_hint">Name of language</string>
+
+    <!--Strings for question 5-->
+    <string name="question_5">5. Which of the following two methods is correctly defined?</string>
+    <string name="question_5_a">public void addNumbers (){}</string>
+    <string name="question_5_b">public int addNumbers (){}</string>
+
+    <!--Strings for question 6-->
+    <string name="question_6">6. What does OOP stand for in the world of programming?</string>
+    <string name="question_6_hint">OOP in full</string>
+
+    <!--Strings for question 7-->
+    <string name="question_7">7. Which of the following two statements is the proper definition of a package in java?</string>
+    <string name="question_7_a">A grouping of related types providing access protection and name space management.</string>
+    <string name="question_7_b"> A single container that contains one or more items that help make up the overall package.</string>
+
+    <!--Strings for question 8-->
+    <string name="question_8">8. Which keyword is used when a class is using an interface?</string>
+    <string name="question_8_a">Implements</string>
+    <string name="question_8_b">Extends</string>
+
+    <!--Strings for buttons-->
+    <string name="submit_quiz">Submit</string>
+    <string name="retake_quiz">Retake</string>
+
+    <!--Strings used in the main activity-->
+    <string name="activity_user_score">Your score is:</string>
+    <string name="activity_kotlin">kotlin</string>
+    <string name="activity_xml">xml</string>
+    <string name="activity_oop">object oriented programming</string>
+    <string name="confirm_submission">Confirm Submission</string>
+    <string name="do_you_want_to_submit">Are you sure you want to submit?</string>
+</resources>
